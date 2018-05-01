@@ -8,7 +8,7 @@ liquid from one pitcher into another: it must be a full-pour which empties the s
 target pitcher (with no spilling), or an under-pour which exactly fills (tops off) the target pitcher.
 
 The first Pitcher is 16 liters
-"   second Pitcher is 9 liters
-"   third Pitcher is 7 liters
+The second Pitcher is 9 liters
+The third Pitcher is 7 liters
 
 Initial config: (16,0,0)
